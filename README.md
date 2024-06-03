@@ -19,7 +19,10 @@ const marck = {
 <img src="https://img.shields.io/badge/LinkedIn--blue" />
 </a>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-Programming Languages :
+
+<h3>Programming Languages : </h3>
 <div>
-<code><img title="java" height="25" src="images/java-original.svg"></code>
+<code><img title="java" height="35" src="images/java-original.svg"></code>
+<code><img title="typescript" height="35" src="images/typescript.svg"></code>
+    
 </div>
