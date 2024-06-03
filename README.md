@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hola 👋
 
-<!--
-**marck431/marck431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :man_technologist: About Me :
+ 
+```js
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const marck = {
+  name: 'Marcos Silva',
+  title: 'Quality Assurance',
+  code: ['Java', 'Typescript', 'Dart'],
+  databases: ['MySQL', 'CouchDB', 'PostgreSQL'],
+  tools: {
+    webTesting: ['Playwright','Serenity BDD','Selenium'],
+    apiTesting: ['Postman','Karate','Rest-assured','Serenity Rest'],
+    performanceTesting: ['Jmeter','Gatling'],
+    mobileTesting: ['Appium','Flutter Integration']
+  }
+```
+<h2> Connect with me on 👇</h2>
+<a href="www.linkedin.com/in/marcos-silva-98270a1b9" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn--blue" />
+</a>
