@@ -21,5 +21,5 @@ const marck = {
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 Programming Languages :
 <div>
-<code><img title="C" height="25" src="images/c.svg"></code>
+<code><img title="java" height="25" src="images/java-original.svg"></code>
 </div>
