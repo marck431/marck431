@@ -54,3 +54,8 @@ const marck = {
     <code><img title="Appium" height="30" src="images/mobile/appium.svg"></code>
     <code><img title="flutter" height="30" src="images/mobile/flutter.svg"></code>
   </div>
+
+  <h2> Github Stats </h2> 
+<a href="https://github.com/marcj431/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marck431&layout=compact&theme=tokyonight" /></a>
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=marck431&theme=tokyonight" alt="marck431" />
+<br/>
