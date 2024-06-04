@@ -22,10 +22,10 @@ const marck = {
 </a>
 
 <h2> Github Stats </h2> 
-<img align="left" width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marck431&layout=compact&theme=tokyonight" />
-<img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=marck431&theme=tokyonight" alt="marck431" />
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marck431&layout=compact&theme=tokyonight" />
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=marck431&theme=tokyonight" alt="marck431" />
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h2>:hammer_and_wrench: Technologies and Tools I use:</h2>
 <h3>👨‍💻 Programming Languages : </h3>
 <div>
 <code><img title="java" height="30" src="images/code/java.svg"></code>
