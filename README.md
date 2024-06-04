@@ -1,5 +1,5 @@
 <h1 align="center">
- Hello!
+Hello!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 </h1>
 
@@ -65,5 +65,9 @@ const marck = {
 <div>
 <code><img title="mysql" height="30" src="images/bd/mysql.svg"></code>
 <code><img title="couchdb" height="30" src="images/bd/couchdb.svg"></code>
- <code><img title="postgresql" height="30" src="images/bd/postgresql.svg"></code>
+<code><img title="postgresql" height="30" src="images/bd/postgresql.svg"></code>
 </div>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%"/>
+</p>
