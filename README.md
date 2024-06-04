@@ -20,8 +20,12 @@ const marck = {
 <a href="www.linkedin.com/in/marcos-silva-98270a1b9" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn--blue" />
 </a>
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 
+<h2> Github Stats </h2> 
+<a><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marck431&layout=compact&theme=tokyonight" /></a>
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=marck431&theme=tokyonight" alt="marck431" />
+
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <h3>👨‍💻 Programming Languages : </h3>
 <div>
 <code><img title="java" height="30" src="images/code/java.svg"></code>
@@ -56,8 +60,3 @@ const marck = {
 <code><img title="Appium" height="30" src="images/mobile/appium.svg"></code>
 <code><img title="flutter" height="30" src="images/mobile/flutter.svg"></code>
 </div>
-
-<h2> Github Stats </h2> 
-<a><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marck431&layout=compact&theme=tokyonight" /></a>
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=marck431&theme=tokyonight" alt="marck431" />
-<br/>
