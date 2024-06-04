@@ -1,8 +1,10 @@
-  <h1 align="center">
+<h1 align="center">
  Hello!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
-  </h1>
-  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+</h1>
+
+
+
 <h2>:man_technologist: About Me :</h2>
 
 ```js
@@ -29,33 +31,33 @@ const marck = {
 </div>
 
 <h3>🌐 Web Testing : </h3>
-  <div>
-    <code><img title="playwright" height="30" src="images/web/playwright.svg"></code>
-    <code><img title="serenity" height="30" src="images/web/serenity.png"></code>
-    <code><img title="selenium" height="30" src="images/web/selenium.svg"></code>
-  </div>
+<div>
+<code><img title="playwright" height="30" src="images/web/playwright.svg"></code>
+<code><img title="serenity" height="30" src="images/web/serenity.png"></code>
+<code><img title="selenium" height="30" src="images/web/selenium.svg"></code>
+</div>
   
 <h3>🕸️ Api Testing :</h3> 
-  <div>
-    <code><img title="postman" height="30" src="images/api/postman.svg"></code>
-    <code><img title="karate" height="30" src="images/api/karatelabsl.svg"></code>
-    <code><img title="restAssured" height="30" src="images/api/restAssured.png"></code>
-    <code><img title="serenity" height="30" src="images/api/serenity.png"></code>
-  </div>
+<div>
+<code><img title="postman" height="30" src="images/api/postman.svg"></code>
+<code><img title="karate" height="30" src="images/api/karatelabsl.svg"></code>
+<code><img title="restAssured" height="30" src="images/api/restAssured.png"></code>
+<code><img title="serenity" height="30" src="images/api/serenity.png"></code>
+</div>
 
-  <h3>📈 Performance Testing :</h3>
-  <div>
-    <code><img title="jmeter" height="30" src="images/performance/jmeter.svg"></code>
-    <code><img title="gatling" height="30" src="images/performance/gatling.svg"></code>
-  </div>
+<h3>📈 Performance Testing :</h3>
+<div>
+<code><img title="jmeter" height="30" src="images/performance/jmeter.svg"></code>
+<code><img title="gatling" height="30" src="images/performance/gatling.svg"></code>
+</div>
   
- <h3>📱 Mobile Testing :</h3>
-  <div>
-    <code><img title="Appium" height="30" src="images/mobile/appium.svg"></code>
-    <code><img title="flutter" height="30" src="images/mobile/flutter.svg"></code>
-  </div>
+<h3>📱 Mobile Testing :</h3>
+<div>
+<code><img title="Appium" height="30" src="images/mobile/appium.svg"></code>
+<code><img title="flutter" height="30" src="images/mobile/flutter.svg"></code>
+</div>
 
-  <h2> Github Stats </h2> 
-<a href="https://github.com/marcj431/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marck431&layout=compact&theme=tokyonight" /></a>
+<h2> Github Stats </h2> 
+<a href="https://github.com/marck431/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marck431&layout=compact&theme=tokyonight" /></a>
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=marck431&theme=tokyonight" alt="marck431" />
 <br/>
