@@ -21,7 +21,7 @@ const marck = {
 <img src="https://img.shields.io/badge/LinkedIn--blue" />
 </a>
 
-<h2> Github Stats </h2> 
+<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Github Stats: </h2> 
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marck431&layout=compact&theme=tokyonight" />
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=marck431&theme=tokyonight" alt="marck431" />
 
@@ -59,4 +59,11 @@ const marck = {
 <div>
 <code><img title="Appium" height="30" src="images/mobile/appium.svg"></code>
 <code><img title="flutter" height="30" src="images/mobile/flutter.svg"></code>
+</div>
+
+<h3>📱 Data Base :</h3>
+<div>
+<code><img title="mysql" height="30" src="images/bd/mysql.svg"></code>
+<code><img title="couchdb" height="30" src="images/bd/couchdb.svg"></code>
+ <code><img title="postgresql" height="30" src="images/bd/postgresql.svg"></code>
 </div>
