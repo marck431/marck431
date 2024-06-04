@@ -16,17 +16,17 @@ const marck = {
   passions: 'Quality Assurance'
 }
 ```
-<h2> Connect with me on 👇</h2>
+<h2>👇 Connect with me on :</h2>
 <a href="www.linkedin.com/in/marcos-silva-98270a1b9" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn--blue" />
 </a>
 
-<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Github Stats: </h2> 
+<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Github Stats :</h2> 
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marck431&layout=compact&theme=tokyonight" />
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=marck431&theme=tokyonight" alt="marck431" />
 
-<h2>:hammer_and_wrench: Technologies and Tools I use:</h2>
-<h3>👨‍💻 Programming Languages : </h3>
+<h2>:hammer_and_wrench: Technologies and tools :</h2>
+<h3>👨‍💻 Programming Languages :</h3>
 <div>
 <code><img title="java" height="30" src="images/code/java.svg"></code>
 <code><img title="typescript" height="30" src="images/code/typescript.svg"></code>
@@ -34,7 +34,7 @@ const marck = {
 <code><img title="dart" height="30" src="images/code/dart.svg"></code>
 </div>
 
-<h3>🌐 Web Testing : </h3>
+<h3>🌐 Web Testing :</h3>
 <div>
 <code><img title="playwright" height="30" src="images/web/playwright.svg"></code>
 <code><img title="serenity" height="30" src="images/web/serenity.png"></code>
