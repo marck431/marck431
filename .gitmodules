@@ -1,0 +1,9 @@
+[submodule "Karate"]
+	path = Karate
+	url = https://github.com/marck431/Karate.git
+[submodule "Dart"]
+	path = Dart
+	url = https://github.com/marck431/Dart.git
+[submodule "Flutter"]
+	path = Flutter
+	url = https://github.com/marck431/Flutter.git
